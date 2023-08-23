@@ -1,5 +1,7 @@
 # *Curriculum Vitae* de Godofredo Rojas
 
+![](GRM.JPG)
+
 ## FORMACIÓN ACADÉMICA
 •	[**Universidad de Costa Rica**](https://www.ucr.ac.cr)
 Estudiante regular de la Maestría Profesional en Sistema de Información Geográfica y Teledetección.
